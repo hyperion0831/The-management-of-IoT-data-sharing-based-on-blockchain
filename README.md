@@ -8,3 +8,5 @@ Additionally, the system provides the collected health data to a health analysis
 In summary, this system ensures secure sharing of health data while offering precise health analysis services under the premise of privacy protection, achieving a balance between convenience and security.
 
 Readers can refer to the document titled "Comprehensive Network Engineering Design Summary Report" above for more specific information. Below are screenshots of the software during operation.
+
+![image](https://github.com/user-attachments/assets/f185652a-0898-4da4-9bfe-1ab75076bd60)
