@@ -1,5 +1,5 @@
 # The management of IoT data sharing based on blockchain
- The core of this system is to utilize blockchain technology to build an IoT platform for securely sharing smartwatch health data, aiming to provide users with convenience while ensuring robust data security and privacy protection. It collects health monitoring data from smartwatches, enables real-time viewing through a web interface, and sends the data to the server at predefined intervals.
+The core of this system is to utilize blockchain technology to build an IoT platform for securely sharing smartwatch health data, aiming to provide users with convenience while ensuring robust data security and privacy protection. It collects health monitoring data from smartwatches, enables real-time viewing through a web interface, and sends the data to the server at predefined intervals.
 
 The system uses smart contracts to publish data to a local Ethereum blockchain. The decentralized and tamper-proof nature of blockchain technology ensures that the entire data storage and transmission process is more secure and reliable.
 
