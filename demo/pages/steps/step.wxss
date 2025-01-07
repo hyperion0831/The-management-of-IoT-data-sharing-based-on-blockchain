@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.fetch-button {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  line-height: 150px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  animation: pulse 2s infinite, float 3s ease-in-out infinite;
+}
+
+.fetch-button:active {
+  transform: scale(0.95);
+}
+
+@keyframes pulse {
+  0% {
+    box-shadow: 0 0 10px rgba(255, 126, 95, 0.5), 0 0 20px rgba(255, 126, 95, 0.3), 0 0 30px rgba(255, 126, 95, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(255, 126, 95, 0.7), 0 0 30px rgba(255, 126, 95, 0.5), 0 0 40px rgba(255, 126, 95, 0.3);
+  }
+  100% {
+    box-shadow: 0 0 10px rgba(255, 126, 95, 0.5), 0 0 20px rgba(255, 126, 95, 0.3), 0 0 30px rgba(255, 126, 95, 0.2);
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translatey(0px);
+  }
+  50% {
+    transform: translatey(-10px);
+  }
+}

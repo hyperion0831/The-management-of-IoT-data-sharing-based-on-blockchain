@@ -1,0 +1,10 @@
+{
+  "pages": [
+    "pages/steps/step"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#C22A1E"
+  },
+
+  "sitemapLocation": "sitemap.json"
+}
