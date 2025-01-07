@@ -15,9 +15,11 @@ Readers can refer to the document titled "Comprehensive Network Engineering Desi
 ![image](https://github.com/user-attachments/assets/17f9b47a-94b7-4fc5-9447-828f128542f2)
 ![image](https://github.com/user-attachments/assets/3908ef8b-2c25-4e4f-9f1d-169be4c61b69)
 
+
 2. Settings
 
 ![image](https://github.com/user-attachments/assets/65dc770b-de79-46b1-8005-095225e1a239)
+
 
 3. Real-Time Data Monitoring
 
@@ -28,6 +30,7 @@ Real-Time Monitoring by Listening to Excel Changes
 Obtaining Step Count Information via Mini Program
 
 ![image](https://github.com/user-attachments/assets/84809f0c-f7f5-4cc1-abdb-a6fe942cbfbc)
+
 
 4. Data On-Chain
 
@@ -42,6 +45,7 @@ Obtaining Step Count Information via Mini Program
 The relevant information for on-chain data is as follows:
 
 ![image](https://github.com/user-attachments/assets/9c83ee7c-3e9f-4294-a2fa-2b47e1ae8bc9)
+
 
 5. Data Analysis
 
